@@ -1,0 +1,16 @@
+127.0.0.1 - - [22/Feb/2016:19:03:43 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:08:20 +0100] "GET /Cat/servlet/CreationPhoto HTTP/1.1" 404 1012
+127.0.0.1 - - [22/Feb/2016:19:30:43 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:30:47 +0100] "GET /HelloWorldJSP/helloWorld.jsp HTTP/1.1" 200 287
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:33:17 +0100] "GET /HelloWorldJSP/helloWorld.jsp HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:33:29 +0100] "GET /HelloWorldJSP/CreationPhoto?nom=&email= HTTP/1.1" 404 1016
+127.0.0.1 - - [22/Feb/2016:19:42:18 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:42:20 +0100] "GET /Catalog/WEB-INF/CreationPhoto.jsp HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:42:26 +0100] "GET /Catalog/WEB-INF/CreationPhoto.jsp HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:42:27 +0100] "GET /Catalog/WEB-INF/CreationPhoto.jsp HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:42:27 +0100] "GET /Catalog/WEB-INF/CreationPhoto.jsp HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:19:42:28 +0100] "GET /Catalog/WEB-INF/CreationPhoto.jsp HTTP/1.1" 404 960
+127.0.0.1 - - [22/Feb/2016:20:04:23 +0100] "GET / HTTP/1.1" 404 962
+127.0.0.1 - - [22/Feb/2016:20:21:18 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:20:21:20 +0100] "GET /HelloWorldJSP/CreationPhoto.jsp HTTP/1.1" 404 1024
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:22:03:48 +0100] "GET /HelloWorldJSP/CreationPhoto.jsp HTTP/1.1" 404 1024

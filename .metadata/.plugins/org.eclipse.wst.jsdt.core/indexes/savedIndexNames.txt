@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+C:\Users\Imen\Desktop\M1_Cours\XML\Eclipse EE\Nouveau dossier\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3105236787.index
+2616187003.index
+3861889246.index
+2113667400.index
+1163493661.index
+2928996870.index
+3330499591.index
+1029532873.index

@@ -1,0 +1,13 @@
+public class Personne {
+	private static int cmp=1;
+	private int idP;
+	private String nomP;
+	private String prenomP;
+	private String email;
+	
+	
+	public Personne(){
+		idP = cmp++;
+	}
+	
+}
