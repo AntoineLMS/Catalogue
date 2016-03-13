@@ -25,7 +25,7 @@ public class Gallerie {
 
 	public void setCatalogues(List<Catalogue> catalogues) {
 		this.catalogues = catalogues;
-	} 
+	}
 
 	public Map<Personne, List<Photo>> getPhotosAuteur() {
 		return photosAuteur;
